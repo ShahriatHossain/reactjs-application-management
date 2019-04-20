@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Challenge Requirements
+## Requirements
 ● See the list with all applications showing the following data:
 ○ Name (string)
 ○ Email (string)
